@@ -1,4 +1,3 @@
-Here's a `README.md` file that explains the functionality and usage of your heatwave detection script:
 
 ```markdown
 # Heatwave Detection and Notification System
