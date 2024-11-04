@@ -43,7 +43,7 @@ Run the script with:
 ```bash
 python heatwave_detection.py
 ```
-![Heatwave Example](heatwave.png)
+![Heatwave Example](heatwave.jpg)
 
 ## Functions
 
