@@ -67,11 +67,6 @@ This function sends an SMS notification to a specified phone number using Twilio
 - `to`: Phone number to send the SMS to.
 - `message`: Message content for the SMS.
 
-## Disclaimer
-- **Sensitive Information**: Do not hardcode sensitive information like Twilio credentials or phone numbers in your code. Use environment variables for added security.
-- **Data Privacy**: Ensure that phone numbers and temperature data are handled in compliance with data protection regulations.
-
----
 
 Enjoy using the Heatwave Detection and Notification System!
 ```
